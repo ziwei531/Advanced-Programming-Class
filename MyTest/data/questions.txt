@@ -1,0 +1,5 @@
+4
+1:B:Who designed the Eiffel Tower?:Minah:Mamat:Joyah
+2:C:Where is this building located?:klcc.jpg:Tokyo:Paris:Manila
+1:C:Who shot JF Kennedy?:Mamat:Minah:None of the above
+1:A:Who created IPhone?:Apple:Isee:Ifight
